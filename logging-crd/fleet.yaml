@@ -1,0 +1,7 @@
+
+defaultNamespace: rancher-logging
+helm:
+  releaseName: rancher-logging-crd
+  repo: https://charts.rancher.io
+  chart: rancher-logging-crd
+  version: 101.1.0+up3.17.10

@@ -1,4 +1,3 @@
-
 defaultNamespace: rancher-logging
 helm:
   releaseName: rancher-logging-crd
